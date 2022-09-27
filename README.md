@@ -1,2 +1,2 @@
-# Reaktion-Energy-Profile-Analyzer
-Reaktion-Energy-Profile-Analyzer
+# Reaction-Energy-Profile-Analyzer
+Reaction-Energy-Profile-Analyzer
